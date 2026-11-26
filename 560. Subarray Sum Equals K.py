@@ -1,8 +1,9 @@
 # 0560. Subarray Sum Equals K
-# Difficulty: Medium
+# Difficulty: Medium 
 # Link: https://leetcode.com/problems/subarray-sum-equals-k/description/
 # Approach: Hash Map
 # Time: O(n) | Space: O(n)
+# solved by brute force and optimal solution
 
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
